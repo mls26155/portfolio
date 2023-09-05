@@ -1,7 +1,7 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and consider myself a curious and enthusiastic developer."
-  "My technical proficiencies include Java, Javascript, React, and agile methodologies, positioning me well for roles in software engineering, full-stack development, and hardware design. Whether it's front-end development using React or robust backend frameworks like .ASP, I approach every challenge with enthusiasm and a keen analytical mindset."
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
+  "My technical proficiencies include Java, Javascript, React, and agile methodologies, positioning me well for roles in software engineering, full-stack development, and hardware design. Whether it's front-end development using React or robust backend frameworks like .ASP, I approach every challenge with enthusiasm and a keen analytical mindset.",
   "Apart from coding, I love to photography, reading, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
