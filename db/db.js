@@ -119,7 +119,7 @@ organization",
     },
     {
       projectName: "TiptopFocus.com",
-      image: "images/tiptopfoucs.png",
+      image: "images/tiptopfocus.png",
       summary: "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview:
         "https://tiptopfocus.com",
