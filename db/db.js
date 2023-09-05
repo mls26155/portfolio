@@ -56,36 +56,28 @@ export const projects = {
     "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
   webProjects: [
     {
-      projectName: "Programming Diaries",
-      image: "images/programmingdiaries.png",
+      projectName: "WasabiLingo",
+      image: "images/wasabilingo.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "DDeveloped a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
+      preview: "https://wasabilingo.teachable.com/",
+      techStack: ["Javascript", "AWS", "CSS", "Reactjs", "Heroku"],
     },
     {
-      projectName: "Find Your Bank",
-      image: "images/findyourbank.png",
+      projectName: "Ad Hoc Wireless Network Emulation",
+      image: "images/network.png",
       summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+        "Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
+      preview: "https://github.com/mls26155",
+      techStack: ["Java", "Git", "Data Structures and Algorithms"],
     },
     {
-      projectName: "Web Portfolio",
-      image: "images/portfolio.png",
+      projectName: "Lofi Radio Weather App",
+      image: "images/weather.png",
       summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
+        "A weather app built in React that plays lofi music to match the mood.",
+      preview: "https://github.com/mls26155/Lofi-Weather-App",
+      techStack: ["HTML", "Reactjs", "JavaScript"],
     },
   ],
   softwareProjects: [
