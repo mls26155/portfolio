@@ -1,6 +1,6 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and am a passionate developer.",
   "Apart from coding, I love to read, listen to music, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
@@ -9,13 +9,13 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "Java, Javascript, C, C++, C#, Verilog, VHDL, Python",
     color: "1",
     percentage: "80",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, Rxjs, Ngxs",
+    skillName: "Angular, React, .ASP, jQuery",
     color: "6",
     percentage: "70",
   },
@@ -33,7 +33,7 @@ export const skills = [
   },
   {
     title: "Tools",
-    skillName: "Postman, Chrome DevTools",
+    skillName: "Amazon Web Services (EC2, Lambda, S3, CloudFormation, RDS), Git, Postman, Chrome DevTools",
     color: "3",
     percentage: "80",
   },
