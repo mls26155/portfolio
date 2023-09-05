@@ -182,36 +182,33 @@ export const experience = [
 
 export const education = [
   {
-    title: "Bachelor of Science in Computer Engineering",
+    title: "Bachelors in Computer Science and Engineering",
     duration: "",
-    subtitle: "George Mason University, Virginia",
+    subtitle: "National Institute of Technology, Warangal",
     details: [
-      "I am an experienced computer engineer and full-stack developer with a GPA of 3.61/4.0.",
-      "Helped local small businesses create and maintain websites in the area. Utilizing custom JavaScript code.",
-      "President of the NVCC Coding Club, oversaw all club activies and led weekly programing Java tutorials covering DS&A concepts. ",
+      "I successfully qualified GATE-2020, demonstrating my aptitude and expertise in the field.",
+      "As an active competitive programmer, I have achieved a CodeChef rating of 1841*, showcasing my skills in solving complex programming problems.",
+      "My GitHub projects have earned over 1k stars and forks, a testament to my ability to create high-quality and impactful code.",
     ],
     tags: [
       "Data Structures & Algorithms",
       "Operating Systems",
-      "FPGA Design",
+      "Database Management System",
       "Computer Networks",
-      "Device Driver Development",
-      "Computer Architecture",
-      "Signals and Systems",
-      "Embedded System Hardware Interfaces",
-      "Microcontrollers",
+      "Compiler Designing",
       "Cloud Computing",
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Associate of Science in Engineering",
+    title: "Class 11-12th in Science and Mathematics",
     duration: "",
-    subtitle: "Northern Virginia Community College",
+    subtitle: "Board of Secondary Education, Rajasthan",
     details: [
-      "Presidential Scholars List for Academic Excellence",
+      "I have successfully qualified JEE Advanced, Main, and BITSAT, demonstrating my strong aptitude and skills in these highly competitive exams.",
+      "Additionally, I am proud to have achieved an exceptional 99.5 percentile in my Class 12th Boards Examinations, reflecting my dedication and hard work towards academic excellence.",
     ],
-    tags: ["OOP Programming", "Engineering", "Mathematics"],
+    tags: ["Physics", "Chemistry", "Mathematics"],
     icon: "book",
   },
 ];
@@ -245,6 +242,10 @@ export const footer = [
         text: "Print this page",
         func: "window.print()",
       },
+      {
+        text: "Clone this page",
+        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+      },
     ],
   },
   {
@@ -252,23 +253,23 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/michael-schroeder-020386283/,
+        link: "https://www.linkedin.com/in/vinaysomawat/",
       },
       {
         text: "Twitter",
-        link: "https://www.linkedin.com/in/michael-schroeder-020386283/",
+        link: "https://twitter.com/thesigmakid",
       },
       {
-        text: "More",
-        link: "https://www.linkedin.com/in/michael-schroeder-020386283/",
+        text: "Buy me a coffee",
+        link: "https://www.buymeacoffee.com/r194dME8y",
       },
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts;.",
-      "&copy; No Copyrights.",
+      "Made with &hearts; by Vinay Somawat.",
+      "&copy; No Copyrights. Feel free to use this template.",
     ],
   },
 ];
