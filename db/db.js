@@ -1,7 +1,8 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
+  "My technical proficiencies include Java, Javascript, React, and agile methodologies, positioning me well for roles in software engineering, full-stack development, and hardware design. Whether it's front-end development using React or robust backend frameworks like .ASP, I approach every challenge with enthusiasm and a keen analytical mindset."
+  "Apart from coding, I love to photography, reading, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
@@ -9,13 +10,13 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "Java, Javascript, C, C++, C#, Verilog, VHDL, Python",
     color: "1",
     percentage: "80",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, Rxjs, Ngxs",
+    skillName: "React, .ASP, jQuery",
     color: "6",
     percentage: "70",
   },
@@ -33,7 +34,7 @@ export const skills = [
   },
   {
     title: "Tools",
-    skillName: "Postman, Chrome DevTools",
+    skillName: "Amazon Web Services (EC2, Lambda, S3, CloudFormation, RDS), Git, Chrome DevTools, Docker, Kubernetes",
     color: "3",
     percentage: "80",
   },
@@ -53,146 +54,121 @@ export const skills = [
 
 export const projects = {
   disclaimer:
-    "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
+    "",
   webProjects: [
     {
-      projectName: "Programming Diaries",
-      image: "images/programmingdiaries.png",
+      projectName: "WasabiLingo",
+      image: "images/wasabilingo.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "Developed a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
+      preview: "https://wasabilingo.teachable.com/",
+      techStack: ["Javascript", "WebSpeech API", "CSS", "HTML5", "Machine Learning Tooling"],
     },
     {
-      projectName: "Find Your Bank",
-      image: "images/findyourbank.png",
+      projectName: "Ad Hoc Wireless Network Emulation using Graph Data Structures",
+      image: "images/network.png",
       summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+        "Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
+      preview: "https://github.com/mls26155",
+      techStack: ["Java", "Git", "Data Structures and Algorithms"],
+    },
+    {
+      projectName: "Lofi Music Weather App",
+      image: "images/weather.png",
+      summary:
+        "A weather app built in React that plays lofi music to match the mood..",
+      preview: "https://github.com/mls26155/Lofi-Weather-App",
+      techStack: ["HTML", "React", "JavaScript"],
     },
     {
       projectName: "Web Portfolio",
       image: "images/portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-  ],
-  softwareProjects: [
-    {
-      projectName: "Pizza Ordering ChatBot",
-      image: "images/pizzaorderchatbot.png",
-      summary:
-        "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-      techStack: ["Dailogflow", "Firebase"],
-    },
-    {
-      projectName: "WhatsApp-Bot",
-      image: "images/whatsappbot.jpg",
-      summary:
-        "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-      techStack: ["Selenium", "Chrome Webdriver", "Python"],
-    },
-    {
-      projectName: "Bill Generator",
-      image: "images/billgenerator.png",
-      summary:
-        "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
-      techStack: ["Tkinter", "Openxlpy", "Python"],
     },
   ],
   androidProjects: [
     {
-      projectName: "NITW-CSE",
-      image: "images/nitwcse.jpg",
+      projectName: "FPGA-based MIPS Datapath Design",
+      image: "images/vhdl.jpg",
       summary:
-        "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
-      techStack: ["JAVA", "XML", "Android"],
+        "Implemented MIPS datapath for R-type and I-type instructions on Basys-III board using VHDL code and Xilinx Vivado, ensuring compatibility with a diverse set of computing tasks. Managed input/output port mapping, bitstream file generation for FPGA programming, and efficient project
+organization",
+      preview: "https://github.com/mls26155",
+      techStack: ["Vivado Xilinx", "FPGA", "VHDL", "Assembly"],
     },
     {
-      projectName: "CareerHigh-App",
-      image: "images/carrerhigh.png",
+      projectName: "Custom Linux Device Driver",
+      image: "images/driver.png",
       summary:
-        "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-      techStack: ["JAVA", "XML", "Android"],
+        "Developed a network driver for Linux, focusing on IP assignment, packet transmission, ARP with Ethernet, multicast configurations, and socket buffer manipulations",
+      preview: "https://github.com/mls26155",
+      techStack: ["C", "Linux Kernel", "Raspberry Pi"],
     },
   ],
   freelanceProjects: [
     {
-      projectName: "SnylloAir.com",
-      image: "images/snylloair.png",
+      projectName: "DanceFactory.com",
+      image: "images/dancefactory.png",
       summary:
         "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-      preview: "https://www.snylloair.com/",
-      techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+      preview: "https://www.dancefactory.com/",
+      techStack: ["Web Development", "Frontend Development", "UI/UX Design"],
     },
     {
-      projectName: "Delivery+",
-      image: "images/AM-Logo-.png",
-      summary: "Android Application to display website in android devices.",
+      projectName: "TiptopFocus.com",
+      image: "images/tiptopfoucs.png",
+      summary: "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview:
-        "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-      techStack: ["Android", "JAVA", "Play Store"],
+        "https://tiptopfocus.com",
+      techStack: ["Web Development", "Javascript", "HTML5", "CSS"],
     },
   ],
 };
 
 export const experience = [
   {
-    title: "Biofourmis India Pvt. Ltd.",
-    duration: "April 2022 - Present",
-    subtitle: "Software Engineer",
+    title: "Wasabi Lingo",
+    duration: "April 2023 - August 2023",
+    subtitle: "Software Engineer Intern",
     details: [
-      "Currently involved in developing healthcare and digital therapeutics products."
+      "Worked in both Front-end and Back-end developement creating Japanese language learning software."
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["JavaScript", "CSS", "HTML5", "Nodejs", "Machine Learning Tooling"],
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Pvt. Ltd.",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "Northern Virginia Community College",
+    duration: "December 2021 - June 2022",
+    subtitle: "President of the NVCC Coding Club",
     details: [
-      "Successfully implemented Aadhaar Enabled Payment services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money Transfer, achieving more than 20 story points in each sprint.",
-      "Streamlined the process of loading money into the wallet by integrating QR Code, which reduced the time required by 50%. Also implemented Clevertap events to track user actions, Freshdesk ticketing service, and chat-bot services. Contributed to user onboarding, approval, and finance interfaces.",
-      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
+      "Led a 400+ member club, fostering a supportive and inclusive learning community.",
+      "Conducted weekly Java programming workshops and mentored club members in programming techniques.",
+      "Spearheaded and participated in hackathons, encouraging innovation and collaboration.",
     ],
-    tags: ["JavaScript", "Angular", "React", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Java", "Mentoring", "Leadership"],
     icon: "qrcode",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "Visual Artistry Co ",
+    duration: "September 2021 - Ocober 2022",
+    subtitle: "Lead Videographer",
     details: [
-      "Contributed as a full-stack developer to provide technical support to the team",
-      "Designed and developed a comprehensive Web Application for social media management, starting from the ground up, to cater to customer needs.",
+      "Supervised associate photographers and videographers during high-profile wedding events as the Lead Videographer.",
+      "Exhibited strong leadership and communication skills in liaising with clients and coordinating team efforts.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+    tags: ["Adobe Premiere Pro", "Adobe After Effects", "Adobe Lightroom", "Adobe Photoshop"],
     icon: "group",
   },
 ];
 
 export const education = [
   {
-    title: "Bachelors in Computer Science and Engineering",
+    title: "Bachelor of Science in Computer Engineering",
     duration: "",
-    subtitle: "National Institute of Technology, Warangal",
+    subtitle: "George Mason University, Virginia",
     details: [
       "I successfully qualified GATE-2020, demonstrating my aptitude and expertise in the field.",
       "As an active competitive programmer, I have achieved a CodeChef rating of 1841*, showcasing my skills in solving complex programming problems.",
@@ -201,22 +177,25 @@ export const education = [
     tags: [
       "Data Structures & Algorithms",
       "Operating Systems",
-      "Database Management System",
+      "FPGA Design",
       "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "Device Driver Development",
+      "Computer Architecture",
+      "Signals and Systems",
+      "Embedded System Hardware Interfaces",
+      "Microcontrollers"
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 11-12th in Science and Mathematics",
+    title: "Associate of Science in Engineering",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    subtitle: "Northern Virginia Community College",
     details: [
       "I have successfully qualified JEE Advanced, Main, and BITSAT, demonstrating my strong aptitude and skills in these highly competitive exams.",
       "Additionally, I am proud to have achieved an exceptional 99.5 percentile in my Class 12th Boards Examinations, reflecting my dedication and hard work towards academic excellence.",
     ],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["Object Oritented Programming", "Chemistry", "Mathematics"],
     icon: "book",
   },
 ];
@@ -226,16 +205,12 @@ export const footer = [
     label: "Dev Profiles",
     data: [
       {
-        text: "Stackoverflow",
-        link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-      },
-      {
         text: "GitHub",
-        link: "https://github.com/vinaysomawat",
+        link: "https://github.com/mls26155",
       },
       {
         text: "LeetCode",
-        link: "https://leetcode.com/somawatvinay/",
+        link: "https://leetcode.com/mls26155/",
       },
     ],
   },
@@ -250,10 +225,6 @@ export const footer = [
         text: "Print this page",
         func: "window.print()",
       },
-      {
-        text: "Clone this page",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-      },
     ],
   },
   {
@@ -261,29 +232,20 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
-      },
-      {
-        text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
-      },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        link: "https://www.linkedin.com/in/michael-schroeder-020386283/",
       },
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
-      "&copy; No Copyrights. Feel free to use this template.",
+      "&copy; No Copyright.",
     ],
   },
 ];
 
-const gitUserName = "vinaysomawat";
-const mediumUserName = "vinaysomawat";
+const gitUserName = "michaelschroeder";
+const mediumUserName = "michaelschroeder";
 
 export const URLs = {
   mediumURL: `https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@${mediumUserName}`,
