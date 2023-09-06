@@ -86,7 +86,7 @@ export const projects = {
       image: "images/pizzaorderchatbot.png",
       summary:
         "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["Dailogflow", "Firebase"],
     },
     {
@@ -94,7 +94,7 @@ export const projects = {
       image: "images/whatsappbot.jpg",
       summary:
         "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["Selenium", "Chrome Webdriver", "Python"],
     },
     {
@@ -102,7 +102,7 @@ export const projects = {
       image: "images/billgenerator.png",
       summary:
         "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["Tkinter", "Openxlpy", "Python"],
     },
   ],
@@ -112,7 +112,7 @@ export const projects = {
       image: "images/nitwcse.jpg",
       summary:
         "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["JAVA", "XML", "Android"],
     },
     {
@@ -120,7 +120,7 @@ export const projects = {
       image: "images/carrerhigh.png",
       summary:
         "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+      preview: "https://mls26155.github.io/portfolio/",
       techStack: ["JAVA", "XML", "Android"],
     },
   ],
@@ -129,14 +129,14 @@ export const projects = {
       projectName: "SnylloAir.com",
       image: "images/tiptopfocus.png",
       summary:
-        "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+        "Tiptop Focus - Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview: "https://www.tiptopfocus.com/",
       techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
     },
     {
       projectName: "Delivery+",
       image: "images/dancefactory.png",
-      summary: "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+      summary: "Dance Factory - Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview:
         "https://dancefactory.com",
       techStack: ["Android", "JAVA", "Play Store"],
