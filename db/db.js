@@ -1,7 +1,7 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and am a passionate developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech.",
+  "Apart from coding, I love to read, photography, and video editing.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
@@ -146,36 +146,36 @@ export const projects = {
 
 export const experience = [
   {
-    title: "Biofourmis India Pvt. Ltd.",
-    duration: "April 2022 - Present",
-    subtitle: "Software Engineer",
+    title: "Wasabi Lingo",
+    duration: "April 2023 - August 2023",
+    subtitle: "Full Stack Web Developer Intern",
     details: [
-      "Currently involved in developing healthcare and digital therapeutics products."
+      "Developed frontend and backend elements for an online Japanese language learning platform. Engineered a bespoke, custom game engine for real-time speech recognition for language learners."
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["JavaScript", "React", "CSS", "Nodejs", "HTML"],
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Pvt. Ltd.",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "Northern Virginia Community College",
+    duration: "December 2021 - June 2022",
+    subtitle: "Coding Club President",
     details: [
-      "Successfully implemented Aadhaar Enabled Payment services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money Transfer, achieving more than 20 story points in each sprint.",
-      "Streamlined the process of loading money into the wallet by integrating QR Code, which reduced the time required by 50%. Also implemented Clevertap events to track user actions, Freshdesk ticketing service, and chat-bot services. Contributed to user onboarding, approval, and finance interfaces.",
-      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
+      "Led a 400+ member club, fostering a supportive and inclusive learning community.",
+      "Conducted weekly Java programming workshops and mentored club members in programming techniques.",
+      "Spearheaded and participated in hackathons, encouraging innovation and collaboration.",
     ],
-    tags: ["JavaScript", "Angular", "React", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Python", "Java"],
     icon: "qrcode",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "Visual Artistry Co",
+    duration: "September 2021 - Ocober 2022",
+    subtitle: "Lead Videographer",
     details: [
-      "Contributed as a full-stack developer to provide technical support to the team",
-      "Designed and developed a comprehensive Web Application for social media management, starting from the ground up, to cater to customer needs.",
+      "Supervised associate photographers and videographers during high-profile wedding events as the Lead Videographer.",
+      "Exhibited strong leadership and communication skills in liaising with clients and coordinating team efforts.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+    tags: ["Premiere Pro", "Lightroom", "After Effects", "Photoshop", "Illustrator"],
     icon: "group",
   },
 ];
