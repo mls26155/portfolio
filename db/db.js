@@ -59,7 +59,7 @@ export const projects = {
       projectName: "WasabiLingo",
       image: "images/wasabilingo.png",
       summary:
-        "DDeveloped a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
+        "Developed a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
       preview: "https://wasabilingo.teachable.com/",
       techStack: ["Javascript", "AWS", "CSS", "Reactjs", "Heroku"],
     },
@@ -127,18 +127,18 @@ export const projects = {
   freelanceProjects: [
     {
       projectName: "SnylloAir.com",
-      image: "images/snylloair.png",
+      image: "images/tiptopfocus.png",
       summary:
         "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-      preview: "https://www.snylloair.com/",
+      preview: "https://www.tiptopfocus.com/",
       techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
     },
     {
       projectName: "Delivery+",
-      image: "images/AM-Logo-.png",
-      summary: "Android Application to display website in android devices.",
+      image: "images/dancefactory.png",
+      summary: "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview:
-        "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+        "https://dancefactory.com",
       techStack: ["Android", "JAVA", "Play Store"],
     },
   ],
