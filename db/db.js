@@ -59,7 +59,7 @@ export const projects = {
       projectName: "WasabiLingo",
       image: "images/wasabilingo.png",
       summary:
-        "DDeveloped a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
+        "Wasabi Lingo: Developed a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
       preview: "https://wasabilingo.teachable.com/",
       techStack: ["Javascript", "AWS", "CSS", "Reactjs", "Heroku"],
     },
@@ -67,7 +67,7 @@ export const projects = {
       projectName: "Ad Hoc Wireless Network Emulation",
       image: "images/network.png",
       summary:
-        "Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
+        "Ad Hoc Wireless Network Emulation: Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
       preview: "https://github.com/mls26155",
       techStack: ["Java", "Git", "Data Structures and Algorithms"],
     },
@@ -75,7 +75,7 @@ export const projects = {
       projectName: "Lofi Radio Weather App",
       image: "images/weather.png",
       summary:
-        "A weather app built in React that plays lofi music to match the mood.",
+        "Lofi Radio Weather App: A weather app built in React that plays lofi music to match the mood.",
       preview: "https://github.com/mls26155/Lofi-Weather-App",
       techStack: ["HTML", "Reactjs", "JavaScript"],
     },
@@ -126,20 +126,20 @@ export const projects = {
   ],
   freelanceProjects: [
     {
-      projectName: "SnylloAir.com",
-      image: "images/snylloair.png",
+      projectName: "DanceFactory.com",
+      image: "images/dancefactory.png",
       summary:
-        "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-      preview: "https://www.snylloair.com/",
-      techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+        "Dance Factory: Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+      preview: "https://www.dancefactory.com/",
+      techStack: ["Web Development", "Frontend Development", "UI/UX Design"],
     },
     {
-      projectName: "Delivery+",
-      image: "images/AM-Logo-.png",
-      summary: "Android Application to display website in android devices.",
+      projectName: "TiptopFocus.com",
+      image: "images/tiptopfocus.png",
+      summary: "Tiptop Focus Photo & Video: Developed a company website to showcase the purpose, services and products provided by the company to audience.",
       preview:
-        "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-      techStack: ["Android", "JAVA", "Play Store"],
+        "https://tiptopfocus.com,
+      techStack: ["Web Development", "Javascript", "HTML5", "CSS],
     },
   ],
 };
