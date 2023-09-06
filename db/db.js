@@ -182,20 +182,19 @@ export const experience = [
 
 export const education = [
   {
-    title: "Bachelors in Computer Science and Engineering",
+    title: "Bachelors of Science in Computer Engineering",
     duration: "",
-    subtitle: "National Institute of Technology, Warangal",
+    subtitle: "George Mason University, Virginia",
     details: [
-      "I successfully qualified GATE-2020, demonstrating my aptitude and expertise in the field.",
-      "As an active competitive programmer, I have achieved a CodeChef rating of 1841*, showcasing my skills in solving complex programming problems.",
-      "My GitHub projects have earned over 1k stars and forks, a testament to my ability to create high-quality and impactful code.",
+      "President of the NVCC Coding Club",
+      "Currently preparing for my senior design project through a study of FPGA Design in VHDL and Microcontroller programming.",
     ],
     tags: [
       "Data Structures & Algorithms",
       "Operating Systems",
-      "Database Management System",
+      "Embedded System Hardware Interfaces",
       "Computer Networks",
-      "Compiler Designing",
+      "FGPA Design",
       "Cloud Computing",
     ],
     icon: "graduation-cap",
@@ -219,15 +218,15 @@ export const footer = [
     data: [
       {
         text: "Stackoverflow",
-        link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+        link: "https://github.com/mls26155",
       },
       {
         text: "GitHub",
-        link: "https://github.com/vinaysomawat",
+        link: "https://github.com/mls26155",
       },
       {
         text: "LeetCode",
-        link: "https://leetcode.com/somawatvinay/",
+        link: "https://leetcode.com/mls26155/",
       },
     ],
   },
@@ -244,7 +243,7 @@ export const footer = [
       },
       {
         text: "Clone this page",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "",
       },
     ],
   },
