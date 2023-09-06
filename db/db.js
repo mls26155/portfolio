@@ -253,23 +253,23 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
+        link: "https://www.linkedin.com/in/michael-schroeder-020386283/",
       },
       {
         text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
+        link: "",
       },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "More",
+        link: "",
       },
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
-      "&copy; No Copyrights. Feel free to use this template.",
+      "Made with &hearts;",
+      "&copy; Copyright.",
     ],
   },
 ];
