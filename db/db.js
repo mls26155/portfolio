@@ -1,7 +1,7 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech.",
-  "Apart from coding, I love to read, photography, and video editing.",
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and am a passionate developer.",
+  "Apart from coding, I love to read, listen to music, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
@@ -59,7 +59,7 @@ export const projects = {
       projectName: "WasabiLingo",
       image: "images/wasabilingo.png",
       summary:
-        "Wasabi Lingo: Developed a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
+        "DDeveloped a custom-built game engine utilizing JavaScript and the Web Speech API for real-time speech recognition and feedback. Build a modern Frontend using advanced Javascript and CSS to create an intuitve educational platform.",
       preview: "https://wasabilingo.teachable.com/",
       techStack: ["Javascript", "AWS", "CSS", "Reactjs", "Heroku"],
     },
@@ -67,7 +67,7 @@ export const projects = {
       projectName: "Ad Hoc Wireless Network Emulation",
       image: "images/network.png",
       summary:
-        "Ad Hoc Wireless Network Emulation: Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
+        "Developed software which emulates a wireless network through a graph data structure and calculates the network coverage depending on the user's criteria.",
       preview: "https://github.com/mls26155",
       techStack: ["Java", "Git", "Data Structures and Algorithms"],
     },
@@ -75,7 +75,7 @@ export const projects = {
       projectName: "Lofi Radio Weather App",
       image: "images/weather.png",
       summary:
-        "Lofi Radio Weather App: A weather app built in React that plays lofi music to match the mood.",
+        "A weather app built in React that plays lofi music to match the mood.",
       preview: "https://github.com/mls26155/Lofi-Weather-App",
       techStack: ["HTML", "Reactjs", "JavaScript"],
     },
@@ -126,56 +126,56 @@ export const projects = {
   ],
   freelanceProjects: [
     {
-      projectName: "DanceFactory.com",
-      image: "images/dancefactory.png",
+      projectName: "SnylloAir.com",
+      image: "images/snylloair.png",
       summary:
-        "Dance Factory: Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-      preview: "https://www.dancefactory.com/",
-      techStack: ["Web Development", "Frontend Development", "UI/UX Design"],
+        "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+      preview: "https://www.snylloair.com/",
+      techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
     },
     {
-      projectName: "TiptopFocus.com",
-      image: "images/tiptopfocus.png",
-      summary: "Tiptop Focus Photo & Video: Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+      projectName: "Delivery+",
+      image: "images/AM-Logo-.png",
+      summary: "Android Application to display website in android devices.",
       preview:
-        "https://tiptopfocus.com,
-      techStack: ["Web Development", "Javascript", "HTML5", "CSS],
+        "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+      techStack: ["Android", "JAVA", "Play Store"],
     },
   ],
 };
 
 export const experience = [
   {
-    title: "Wasabi Lingo",
-    duration: "April 2023 - August 2023",
-    subtitle: "Full Stack Web Developer Intern",
+    title: "Biofourmis India Pvt. Ltd.",
+    duration: "April 2022 - Present",
+    subtitle: "Software Engineer",
     details: [
-      "Developed frontend and backend elements for an online Japanese language learning platform. Engineered a bespoke, custom game engine for real-time speech recognition for language learners."
+      "Currently involved in developing healthcare and digital therapeutics products."
     ],
-    tags: ["JavaScript", "React", "CSS", "Nodejs", "HTML"],
+    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
     icon: "heartbeat",
   },
   {
-    title: "Northern Virginia Community College",
-    duration: "December 2021 - June 2022",
-    subtitle: "Coding Club President",
+    title: "Novopay Solutions Pvt. Ltd.",
+    duration: "June 2020 - April 2022",
+    subtitle: "Software Engineer",
     details: [
-      "Led a 400+ member club, fostering a supportive and inclusive learning community.",
-      "Conducted weekly Java programming workshops and mentored club members in programming techniques.",
-      "Spearheaded and participated in hackathons, encouraging innovation and collaboration.",
+      "Successfully implemented Aadhaar Enabled Payment services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money Transfer, achieving more than 20 story points in each sprint.",
+      "Streamlined the process of loading money into the wallet by integrating QR Code, which reduced the time required by 50%. Also implemented Clevertap events to track user actions, Freshdesk ticketing service, and chat-bot services. Contributed to user onboarding, approval, and finance interfaces.",
+      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
     ],
-    tags: ["Python", "Java"],
+    tags: ["JavaScript", "Angular", "React", "Bootstrap", "Nodejs", "Jenkins"],
     icon: "qrcode",
   },
   {
-    title: "Visual Artistry Co",
-    duration: "September 2021 - Ocober 2022",
-    subtitle: "Lead Videographer",
+    title: "ThinkPedia LLP",
+    duration: "May 2019 - June 2019",
+    subtitle: "SDE Intern",
     details: [
-      "Supervised associate photographers and videographers during high-profile wedding events as the Lead Videographer.",
-      "Exhibited strong leadership and communication skills in liaising with clients and coordinating team efforts.",
+      "Contributed as a full-stack developer to provide technical support to the team",
+      "Designed and developed a comprehensive Web Application for social media management, starting from the ground up, to cater to customer needs.",
     ],
-    tags: ["Premiere Pro", "Lightroom", "After Effects", "Photoshop", "Illustrator"],
+    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
     icon: "group",
   },
 ];
