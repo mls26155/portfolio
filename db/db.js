@@ -1,8 +1,8 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Michael Schroeder, a Computer Engineer from George Mason University with expertise in Full Stack Engineering and Embedded Systems Design. I have a passion for all things tech and am a passionate developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
-  "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
+  "I'm Michael Schroeder, a Computer Engineer from George Mason University with proficiency in Python, Java, JavaScript, and C.",
+  "I also enjoy language learning and am currently studing Japanese at JPLT N4 and N3 levels.",
+  "In 2023, I led a team of engineers build an Cloud application that one first place at one of the largest coding competitions in Virginia called PatriotHacks.",
   "Thanks for taking the time to learn a little about me!",
 ];
 
